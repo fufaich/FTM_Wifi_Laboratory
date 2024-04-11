@@ -2,4 +2,5 @@
 
 Точка входа ***iwl-drv.c***
 
-функция ***iwl_mvm_ftm_start*** вызывается в функции ***iwl_mvm_start_pmsr** ([mac80211.c](https://github.com/torvalds/linux/blob/master/drivers/net/wireless/intel/iwlwifi/mvm/mac80211.c#L6181)) (старт пассивного сканирования радиосреды)
+функция ***iwl_mvm_ftm_start***([ftm-initiator.c](https://github.com/torvalds/linux/blob/master/drivers/net/wireless/intel/iwlwifi/mvm/ftm-initiator.c#L906)) вызывается в функции ***iwl_mvm_start_pmsr** ([mac80211.c](https://github.com/torvalds/linux/blob/master/drivers/net/wireless/intel/iwlwifi/mvm/mac80211.c#L6181)) (старт пассивного сканирования радиосреды)
+Далее все функции оперделены в [функциональной таблице](https://github.com/torvalds/linux/blob/master/drivers/net/wireless/intel/iwlwifi/mvm/mac80211.c#L6207)
