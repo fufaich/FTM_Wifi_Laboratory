@@ -3,7 +3,7 @@
 
 Fine Timing Measurement- Позволяет измерять расстояния между двумя устройствами
 
-[**Structures**](Strucutres/structures.md)
+[**Structures**](Structures/structures.md)
 
 
 Support Drivers:
