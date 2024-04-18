@@ -7,8 +7,8 @@ Fine Timing Measurement- Позволяет измерять расстояни�
 
 ### Support Drivers:
 * [iwlwifi](Drivers/iwlwifi/iwlwifi.md)
-* [ath11k](Drivers/ath11k/ath11k.md)
-* [wcn36xx](Drivers/wcn36xx/wcn36xx.md)
+* [ath11k](Drivers/ath/ath11k/ath11k.md)
+* [wcn36xx](Drivers/ath/wcn36xx/wcn36xx.md)
 
 ### See also
 * [Исходники ядра Linux](https://github.com/torvalds/linux)
